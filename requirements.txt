@@ -1,0 +1,8 @@
+# To generate package
+build
+
+# Documentation
+sphinx
+
+# Testing
+pytest
